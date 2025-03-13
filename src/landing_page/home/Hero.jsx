@@ -2,7 +2,7 @@ import React from "react";
 
 function Hero() {
   return (
-    <div className="container">
+    <div className="container mt-5">
       <div className="row text-center mb-5">
         <div className="col text-center">
           <img src="media/landing.png" alt="" style={{ width: "65%" }} />

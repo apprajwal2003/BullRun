@@ -26,3 +26,9 @@ footer .details p {
   text-decoration: none;
   color: #9b9b9b;
 }
+
+.section-wrapper {
+  min-height: 550px;
+  display: flex;
+  align-items: center; /* for vertical centering */
+}
